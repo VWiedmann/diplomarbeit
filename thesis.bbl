@@ -1,0 +1,90 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{AAA{\etalchar{+}}10}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{AAA{\etalchar{+}}10}]{OPERA}
+\btxnamefont {N. \btxlastnamefont {Agafonova}}, \btxnamefont {A.
+  \btxlastnamefont {Aleksandrov}}, \btxnamefont {O. \btxlastnamefont
+  {Altinok}}, \btxnamefont {M. \btxlastnamefont {Ambrosio}}, \btxnamefont {A.
+  \btxlastnamefont {Anokhina}}, \btxnamefont {S. \btxlastnamefont {Aoki}},
+  \btxnamefont {A. \btxlastnamefont {Ariga}}, \btxnamefont {T. \btxlastnamefont
+  {Ariga}}, \btxnamefont {D. \btxlastnamefont {Autiero}}, \btxnamefont {A.
+  \btxlastnamefont {Badertscher}}, \btxnamefont {A. \btxlastnamefont
+  {Bagulya}}, \btxnamefont {A. \btxlastnamefont {Bendhabi}}, \btxnamefont {A.
+  \btxlastnamefont {Bertolin}}, \btxnamefont {M. \btxlastnamefont {Besnier}},
+  \btxnamefont {D. \btxlastnamefont {Bick}}, \btxnamefont {V. \btxlastnamefont
+  {Boyarkin}}, \btxnamefont {C. \btxlastnamefont {Bozza}}, \btxnamefont {T.
+  \btxlastnamefont {Brugière}}, \btxnamefont {R. \btxlastnamefont {Brugnera}},
+  \btxnamefont {F. \btxlastnamefont {Brunet}}, \btxnamefont {G.
+  \btxlastnamefont {Brunetti}}, \btxnamefont {S. \btxlastnamefont {Buontempo}},
+  \btxnamefont {A. \btxlastnamefont {Cazes}}, \btxnamefont {L. \btxlastnamefont
+  {Chaussard}}, \btxnamefont {M. \btxlastnamefont {Chernyavsky}}, \btxnamefont
+  {V. \btxlastnamefont {Chiarella}}, \btxnamefont {N. \btxlastnamefont
+  {Chon-Sen}}, \btxnamefont {A. \btxlastnamefont {Chukanov}}, \btxnamefont {R.
+  \btxlastnamefont {Ciesielski}}, \btxnamefont {F.Dal \btxlastnamefont
+  {Corso}}, \btxnamefont {N. \btxlastnamefont {D'Ambrosio}}, \btxnamefont {Y.
+  \btxlastnamefont {Declais}}, \btxnamefont {P. del \btxlastnamefont
+  {Amo~Sanchez}}, \btxnamefont {G.\btxfnamespacelong De \btxlastnamefont
+  {Lellis}}, \btxnamefont {M.\btxfnamespacelong De \btxlastnamefont {Serio}},
+  \btxnamefont {F.\btxfnamespacelong Di \btxlastnamefont {Capua}}, \btxnamefont
+  {A.\btxfnamespacelong Di \btxlastnamefont {Crescenzo}}, \btxnamefont
+  {D.\btxfnamespacelong Di \btxlastnamefont {Ferdinando}}, \btxnamefont
+  {N.\btxfnamespacelong Di \btxlastnamefont {Marco}}, \btxnamefont
+  {A.\btxfnamespacelong Di \btxlastnamefont {Giovanni}}, \btxnamefont {S.
+  \btxlastnamefont {Dmitrievsky}}, \btxnamefont {M. \btxlastnamefont {Dracos}},
+  \btxnamefont {D. \btxlastnamefont {Duchesneau}}, \btxnamefont {S.
+  \btxlastnamefont {Dusini}}, \btxnamefont {T. \btxlastnamefont {Dzhatdoev}},
+  \btxnamefont {J. \btxlastnamefont {Ebert}}, \btxnamefont {O. \btxlastnamefont
+  {Egorov}}, \btxnamefont {R. \btxlastnamefont {Enikeev}}, \btxnamefont {A.
+  \btxlastnamefont {Ereditato}}, \btxnamefont {L.S. \btxlastnamefont
+  {Esposito}}, \btxnamefont {J. \btxlastnamefont {Favier}}, \btxnamefont {T.
+  \btxlastnamefont {Ferber}}, \btxnamefont {R.A. \btxlastnamefont {Fini}},
+  \btxnamefont {D. \btxlastnamefont {Frekers}}, \btxnamefont {T.
+  \btxlastnamefont {Fukuda}}, \btxnamefont {V. \btxlastnamefont {Galkin}},
+  \btxnamefont {A. \btxlastnamefont {Garfagnini}}, \btxnamefont {G.
+  \btxlastnamefont {Giacomelli}}, \btxnamefont {M. \btxlastnamefont
+  {Giorgini}}, \btxnamefont {J. \btxlastnamefont {Goldberg}}\btxandcomma {}
+  \btxandlong {}\ \btxnamefont {C. \btxlastnamefont {G\}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Observation of a first candidate event in
+  the opera experiment in the cngs beam}{Observation of a first candidate event
+  in the OPERA experiment in the CNGS beam}}.
+\newblock \btxjournalfont {Physics Letters B}, 691(3):138 -- 145,
+  2010\ifbtxprintISSN {, \mbox{\btxISSN~\btxISSNfont {0370-2693}}}.
+\newblock {\latintext
+  \btxurlfont{http://www.sciencedirect.com/science/article/pii/S0370269310007537}}.
+
+\bibitem [{CRH{\etalchar{+}}56}]{COWANREINES}
+\btxnamefont {C.\btxfnamespacelong L. \btxlastnamefont {Cowan}}, \btxnamefont
+  {F. \btxlastnamefont {Reines}}, \btxnamefont {F.\btxfnamespacelong B.
+  \btxlastnamefont {Harrison}}, \btxnamefont {H.\btxfnamespacelong W.
+  \btxlastnamefont {Kruse}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {A.\btxfnamespacelong D. \btxlastnamefont {McGuire}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {{Detection of the free neutrino: A
+  Confirmation}}{{Detection of the free neutrino: A Confirmation}}}.
+\newblock \btxjournalfont {Science}, 124:103--104, 1956.
+
+\bibitem [{Gr\10}]{RGr}
+\btxnamefont {Robin \btxlastnamefont {Gr\"o{\ss}le}}\btxauthorcolon\
+  \btxtitlefont {Konzeptionierung und Systematik der Hochspannungsversorgung
+  f\"ur das KATRIN Experiment}, 2010.
+\newblock Diploma thesis, Karlsruhe Institute of Technology, 2010.
+
+\bibitem [{Rei09}]{DTReich}
+\btxnamefont {J. \btxlastnamefont {Reich}}\btxauthorcolon\ \btxtitlefont
+  {Magnetfeldmessungen und Designarbeiten f\"ur das EMCS Luftspulensystem am
+  KATRIN Hauptspektrometer}, 2009.
+\newblock Diploma thesis, Universit\"at Karlsruhe (TH).
+
+\end{thebibliography}
